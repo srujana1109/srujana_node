@@ -1,0 +1,180 @@
+{
+    "foodItems":[
+        {
+            "foodItem_id":1,
+            "foodItem_category":"Appetizers",
+            "foodItems_items":[
+                {
+                    "item_id":1,
+                    "item_name":"Samosas",
+                    "item_image":"https://imgs.search.brave.com/IkETwvwBeXrsIu7beBvx900YdYQik_T_cweFGEbbbm0/rs:fit:500:0:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJhY2Nlc3Mu/Y29tL2Z1bGwvMjA2/OTE4OC5qcGc",
+                    "item_price":5.99,
+                    "item_rating":5
+                },
+                {
+                    "item_id":2,
+                    "item_name":"Papri Chaat",
+                    "item_image":"https://imgs.search.brave.com/snXW5uxakBq2F0e8rPVtEciJUnD7eCojtJDvD5cWey0/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvNTQy/NzY0NDE0L3Bob3Rv/L2tvbGthdGEtaW5k/aWEtdmlldy1vZi1w/YXByaS1jaGF0LW9u/LW5vdmVtYmVyLTEw/LTIwMTUtaW4ta29s/a2F0YS1pbmRpYS5q/cGc_cz02MTJ4NjEy/Jnc9MCZrPTIwJmM9/dW9vdGFFXy1scWZO/Mjd5aVpmZ3llUlot/RUQ3VmI0aGpnSzBF/TzdEQlhLdz0",
+                    "item_price":6.99,
+                    "item_rating":5
+                },
+                {
+                    "item_id":3,
+                    "item_name":"Panner Tikka",
+                    "item_image":"https://imgs.search.brave.com/K2xUlcgTkwfnZ0MrSMn6c9us-zqeJziTPIX3XPuHM5I/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/cHJlbWl1bS1waG90/by9wYW5lZXItdGlr/a2EtcGhvdG8td2hp/dGUtYmFja2dyb3Vu/ZF84OTM2MTAtMjcx/MTMuanBnP3NpemU9/NjI2JmV4dD1qcGc",
+                    "item_price":7.34,
+                    "item_rating":4.3
+                }
+            ]
+        },
+        {
+            "foodItem_id":2,
+            "foodItem_category":"Main Courses",
+            "foodItems_items":[
+                {
+                    "item_id":4,
+                    "item_name":"Butter Chicken",
+                    "item_image":"https://imgs.search.brave.com/zJkqPvgWHsyKbaEhujdMBA3sWuCJADMAZEIIbxA5MtY/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvMTUw/MzI2NTQ4Ny9waG90/by9idXR0ZXItY2hp/Y2tlbi5qcGc_cz02/MTJ4NjEyJnc9MCZr/PTIwJmM9RTVfR3VR/em5OZ0ltX1p0Vndf/eExIdXA3VDhlUTZj/Um5ZNXVjQ211U1Bq/dz0",
+                    "item_price":8.04,
+                    "item_rating":5
+                },
+                {
+                    "item_id":5,
+                    "item_name":"Palak Paneer",
+                    "item_image":"https://imgs.search.brave.com/34tcR80ksboJqOGhyhGcZl4uZJ9lgf_jS4zUOB_2wXE/rs:fit:500:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzA2LzU5LzMzLzMz/LzM2MF9GXzY1OTMz/MzMyMV9oU1labFFk/WGxKVUhSejUwRUVx/N1ZmbG96VEpNbzJz/VS5qcGc",
+                    "item_price":10.25,
+                    "item_rating":4.6
+                },
+                {
+                    "item_id":6,
+                    "item_name":"Dal Makhani",
+                    "item_image":"https://imgs.search.brave.com/cfK_vUv7GmmJ3xqSCNI7qHG5PxR05ILLJHM6n28HtHY/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvNjcw/OTA3MTcxL3Bob3Rv/L2RhbC1tYWtoYW5p/LWluZGlhbi1mb29k/LmpwZz9zPTYxMng2/MTImdz0wJms9MjAm/Yz1ISFpGUHlsQUpV/bVJoVkM3NFdiUTZM/Q1pyVXZBcmRzeE5J/c1Y1Y190Vk1vPQ",
+                    "item_price":9.28,
+                    "item_rating":4.8
+                },
+                {
+                    "item_id":7,
+                    "item_name":"Paneer Tikka Masala",
+                    "item_image":"https://imgs.search.brave.com/Al5hMc02waIMUxgX7--XJhV6lllcTcbdu4bv2G5nviM/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9leHBl/cmllbmNlLWZyZXNo/LnBhbmFzb25pYy5l/dS93cC1jb250ZW50/L3VwbG9hZHMvMjAx/OC8xMi9QYW5lZXJf/VGlra2FfTWFzYWxh/X2Vuam95XzE4MTIw/NS0xMDI0eDY4My5q/cGc",
+                    "item_price":12.02,
+                    "item_rating":5
+                }
+            ]
+        },
+        {
+            "foodItem_id":3,
+            "foodItem_category":"Naans",
+            "foodItems_items":[
+                {
+                    "item_id": 8,
+                    "item_name": "Garlic Naan",
+                    "item_image": "https://imgs.search.brave.com/0wKb7cmiNRsLVIa_OLUvRODdPF4YCHQ2A93x4KO3dD4/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9jYWZl/ZGVsaXRlcy5jb20v/d3AtY29udGVudC91/cGxvYWRzLzIwMjAv/MDYvR2FybGljLU5h/YW4tUmVjaXBlLUlN/QUdFLTc2LmpwZw",
+                    "item_price": 2.99,
+                    "item_rating": 5
+                },
+                {
+                    "item_id": 9,
+                    "item_name": "Butter Naan",
+                    "item_image": "https://imgs.search.brave.com/tsxT3OQFlHzH7_emUNKnmZDLDaddGSYA4YHEn2CsdfY/rs:fit:500:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzAzLzg4LzE2LzY1/LzM2MF9GXzM4ODE2/NjU1M19JaUp2YnRO/WnZNNFBRUzlQV1l4/SGNsUFRQckxHaWV4/ci5qcGc",
+                    "item_price": 3.50,
+                    "item_rating": 5
+                },
+                {
+                    "item_id": 10,
+                    "item_name": "Paneer Naan",
+                    "item_image": "https://imgs.search.brave.com/zUN6b9_ExOXleEeES45jQaDRd2qApFBHhalqxGRQW7k/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5jaGVmZGVob21l/LmNvbS83NTAvMC8w/L3BhbmVlci1uYWFu/L2luZGlhbi1zdHVm/ZmVkLXBhbmVlci1u/YWFuLWNoZWZkZWhv/bWUtMy5qcGc",
+                    "item_price": 4.25,
+                    "item_rating": 4.3
+                }
+            ]
+        },
+        {
+            "foodItem_id":4,
+            "foodItem_category":"Biryani",
+            "foodItems_items":[
+                {
+                    "item_id":11,
+                    "item_name":"Chicken Dum Biryani",
+                    "item_image":"https://imgs.search.brave.com/k6ZzMsl4J8lseAhzU6Ol2avBb4mvWaahgGnnVLaozug/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvMTA1/ODAyOTA5Ni9waG90/by9jaGlja2VuLWJp/cnlhbmkuanBnP3M9/NjEyeDYxMiZ3PTAm/az0yMCZjPXlWVjFS/QXJrWXoxZlhmMEJs/cGV1d3h0MHlUSEhE/bmxPVVJWTUptWWdB/ZUk9",
+                    "item_price":15.05,
+                    "item_rating":5
+                },
+                {
+                    "item_id":12,
+                    "item_name":"Mutton Biryani",
+                    "item_image":"https://imgs.search.brave.com/ZE1W_rXv825gyNHETIbarGih5qHuG8CniP_KMN0u8Wg/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvMTI2/NTAzMzU0OS9waG90/by9iaXJ5YW5pLWJl/ZWYtYW5kLW11dHRv/bi1yaWNlLWNsb3Nl/dXAtd2l0aC1nYXJu/aXNoLmpwZz9zPTYx/Mng2MTImdz0wJms9/MjAmYz1IOEs3RFhk/WTVKVDhUbkRha3gx/TzdGcXVPcnVCbUhQ/ZmtvNDRkUDI1aEQ4/PQ",
+                    "item_price":17.23,
+                    "item_rating":5
+                },
+                {
+                    "item_id":13,
+                    "item_name":"Egg Biryani",
+                    "item_image":"https://imgs.search.brave.com/bm9Cram3YNbETn06YLG5zrkpwyI-3mR2xodoXTeV2t0/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvMTI5/Nzc4ODk5OS9waG90/by90cmFkaXRpb25h/bC1pbmRpYW4taG9t/ZW1hZGUtZWdnLWJp/cnlhbmkuanBnP3M9/NjEyeDYxMiZ3PTAm/az0yMCZjPXJOVGRK/Zk9FREpCbFh5V21j/ZUlvd3M4M1lpamxR/N2EyZzZsejM2dnhO/RWc9",
+                    "item_price":9.45,
+                    "item_rating":3.8
+                },
+                {
+                    "item_id":14,
+                    "item_name":"Paneer Biryani",
+                    "item_image": "https://imgs.search.brave.com/w9cONupZL3Yc4YKypbjOa73O2gutmgXi4tBERPVJxu4/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvMTM2/NzQxMDc1NC9waG90/by9wYW5lZXItYmly/eWFuaS5qcGc_cz02/MTJ4NjEyJnc9MCZr/PTIwJmM9VUVYOUx4/SGc1YUNDWnVXMWpp/OGNlNjZhZXZUdWE5/VUg4a0dGbW5yRjc5/VT0",
+                    "item_price":7.23,
+                    "item_rating":5
+                }
+            ]
+        },
+        {
+            "foodItem_id":5,
+            "foodItem_category":"Desserts",
+            "foodItems_items":[
+                {
+                    "item_id":15,
+                    "item_name":"Gulab Jamun",
+                    "item_image":"https://imgs.search.brave.com/283o9YDT57eD93hgILDGuzbwly3xbZFo2rfRdcRfQBA/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvMTM2/OTYzMjYzNi9waG90/by9ndWxhYi1qYW11/bi1pbi1ib3dsLW9u/LXdvb2Rlbi1iYWNr/Z3JvdW5kLmpwZz9z/PTYxMng2MTImdz0w/Jms9MjAmYz1hd2lr/US1OWkpPNnBEY3Jl/V216SkNmZGh5NVNS/VTMwdUF4ZEJqWmNK/Z19VPQ",
+                    "item_price":3.01,
+                    "item_rating":4.5
+                },
+                {
+                    "item_id":16,
+                    "item_name":"Rasgulla",
+                    "item_image":"https://imgs.search.brave.com/Mz7NX9diObnmzp9oH45iaJ_KDBoXjGkLnNr0s3Qyvzo/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvMjEw/Mzk0Mjg5My9waG90/by9yYXNndWxsYS5q/cGc_cz02MTJ4NjEy/Jnc9MCZrPTIwJmM9/VlJJWWQ4QjNsTWt4/OTQ0X1g3ZEVWMVZt/RmpDTmVrOW45U3BM/UFd4Zkh1QT0",
+                    "item_price":9.45,
+                    "item_rating":5
+                },
+                {
+                    "item_id":17,
+                    "item_name":"Kulfi",
+                    "item_image":"https://imgs.search.brave.com/cVvbbYuy361V91OF21gOqjaIsrVyEKSp1V-3wChGQwI/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvNjk2/Njc4Mzg2L3Bob3Rv/L21hbmdvLXlvZ3Vy/dC1wb3BzaWNsZS5q/cGc_cz02MTJ4NjEy/Jnc9MCZrPTIwJmM9/RDl2SkFGTlJGRU5y/a2laSDRCSGZOOEd0/SDlqazlpWkJOdkNU/T3dIV0tLST0",
+                    "item_price":6.67,
+                    "item_rating":4.9
+                }
+            ]
+        },
+        {
+            "foodItem_id":6,
+            "foodItem_category":"Beverages",
+            "foodItems_items":[
+                {
+                    "item_id": 18,
+                    "item_name": "Iced Tea",
+                    "item_image": "https://imgs.search.brave.com/3rOih7JECJzDc4IOeW2nwsdnfyNMmp7R6EDizP59pkA/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMudW5zcGxhc2gu/Y29tL3Bob3RvLTE0/OTk2Mzg2NzM2ODkt/NzlhMGI1MTE1ZDg3/P3E9ODAmdz0xMDAw/JmF1dG89Zm9ybWF0/JmZpdD1jcm9wJml4/bGliPXJiLTQuMC4z/Jml4aWQ9TTN3eE1q/QTNmREI4TUh4elpX/RnlZMmg4TW54OGFX/TmxaQ1V5TUhSbFlY/eGxibnd3Zkh3d2ZI/eDhNQT09.jpeg",
+                    "item_price": 2.50,
+                    "item_rating": 4.7
+                },
+                {
+                    "item_id": 19,
+                    "item_name": "Mango Lassi",
+                    "item_image": "https://imgs.search.brave.com/O2kdOgCURglpYPXUtHxJQZWW4WKGHNfqic0nz7mGpX4/rs:fit:500:0:0/g:ce/aHR0cHM6Ly93d3cu/aW5kaWFuaGVhbHRo/eXJlY2lwZXMuY29t/L3dwLWNvbnRlbnQv/dXBsb2Fkcy8yMDIx/LzA0L21hbmdvLWxh/c3NpLmpwZy53ZWJw",
+                    "item_price": 3.75,
+                    "item_rating": 5
+                },
+                {
+                    "item_id": 20,
+                    "item_name": "Matcha Latte",
+                    "item_image": "https://imgs.search.brave.com/qtUNjAGVnIVQ8pTHW2pMBJs6A-4QDFeZq1JmYt2W3DQ/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMudW5zcGxhc2gu/Y29tL3Bob3RvLTE1/MTU4MjMwNjQtZDZl/MGMwNDYxNmE3P3E9/ODAmdz0xMDAwJmF1/dG89Zm9ybWF0JmZp/dD1jcm9wJml4bGli/PXJiLTQuMC4zJml4/aWQ9TTN3eE1qQTNm/REI4TUh4elpXRnlZ/Mmg4Tkh4OGJXRjBZ/MmhoSlRJd2JHRjBk/R1Y4Wlc1OE1IeDhN/SHg4ZkRBPQ.jpeg",
+                    "item_price": 4.20,
+                    "item_rating": 4.5
+                }
+            ]
+        }
+    ]
+}
